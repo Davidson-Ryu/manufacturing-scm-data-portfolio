@@ -2,7 +2,7 @@
 
 **Manufacturing SCM × Data Modeling** — synthetic data portfolio
 
-자동차 부품 제조 SCM 8년 차. 수요예측 · 공급계획 · 서열출하 · S&OP 현장에서 매일 반복되는 판단을 **데이터 구조와 SQL로 옮긴 무기(Weapon)** 모음.
+자동차 부품 제조 SCM 약7년 차. 수요예측 · 공급계획 · 서열출하 · S&OP 현장에서 매일 반복되는 판단을 **데이터 구조와 SQL로 옮긴 무기(Weapon)** 모음.
 **All data is synthetic.** 실무 구조만 본뜬 가상 데이터로 공개하며, 회사 실데이터는 포함하지 않는다.
 
 > 재고는 합(SUM)이 아니라 곱(MIN)이다. 장부상 숫자와 실제로 가능한 숫자 사이의 간극을 드러내는 것이 이 포트폴리오의 공통 주제.
